@@ -11,10 +11,14 @@
             "id": "d83acae2e7bc83e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "测试.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "测试"
             }
           }
         ]
@@ -187,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4a941b2419f3043",
+  "active": "d83acae2e7bc83e4",
   "lastOpenFiles": [
+    "测试.md",
     "assets/深克隆.png.md",
     "assets",
     "API.md",
