@@ -11,14 +11,10 @@
             "id": "3caede80975b004f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "尝试提交.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "尝试提交"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "尝试提交.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "尝试提交 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "尝试提交.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "尝试提交 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -194,6 +188,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3caede80975b004f",
+  "active": "aa45e8567be7f76b",
   "lastOpenFiles": []
 }
