@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ae741eccd8a9e76",
+        "id": "779b674492761cb6",
         "type": "tabs",
         "children": [
           {
-            "id": "d83acae2e7bc83e4",
+            "id": "6b03075322a77b0f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d83acae2e7bc83e4",
+  "active": "4a7951691f2859e5",
   "lastOpenFiles": [
     "测试.md",
     "assets/深克隆.png.md",
