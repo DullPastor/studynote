@@ -150,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "尝试提交.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "尝试提交 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -188,6 +187,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa45e8567be7f76b",
-  "lastOpenFiles": []
+  "active": "487180c1c55fbd18",
+  "lastOpenFiles": [
+    "尝试提交.md"
+  ]
 }
