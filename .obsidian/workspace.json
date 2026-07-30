@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dea964be7f7263cd",
+        "id": "34438c8edcf91b33",
         "type": "tabs",
         "children": [
           {
-            "id": "7045dda08bebde48",
+            "id": "9cfdeab774c8e4e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9f5056fb4f1a274a",
@@ -177,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7045dda08bebde48",
+  "active": "9cfdeab774c8e4e7",
   "lastOpenFiles": [
-    "java学习/assets/1576047659085.png",
     "java学习/API-1.md",
+    "java学习/assets/1576047659085.png",
     "java学习/集合01.md",
     "java学习/方法.md",
     "java学习/常用API.md",
