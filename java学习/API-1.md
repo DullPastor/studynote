@@ -631,7 +631,7 @@ public class RunTimeDemo1 {
 
 ​	任意一个按钮被点击之后，上方了按钮出现。当点击上方按钮之后取消关机任务
 
- ![恶搞好基友](assets\恶搞好基友.png)
+ ![恶搞好基友](assets/恶搞好基友.png)
 
 ```java
 public class Test {
@@ -1090,13 +1090,13 @@ true
 
 ​	Object类默认的是浅克隆
 
-![浅克隆](assets\浅克隆.png)
+![浅克隆](assets/浅克隆.png)
 
 **深克隆：**
 
 ​	基本数据类型拷贝过来，字符串复用，引用数据类型会重新创建新的
 
-![深克隆](assets\深克隆.png)
+![深克隆](assets/深克隆.png)
 
 代码实现：
 
