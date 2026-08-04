@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b22c5007518ee87",
+        "id": "07bb86179885dde3",
         "type": "tabs",
         "children": [
           {
-            "id": "5e092d5e26d0ae04",
+            "id": "587324780bdf2262",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,8 +192,10 @@
   "active": "aa45e8567be7f76b",
   "lastOpenFiles": [
     "未命名",
-    "未命名 1.base",
+    "java学习/数组.md",
+    "未命名.canvas",
     "力扣知识点.base",
+    "未命名 1.base",
     "未命名.base",
     "java学习/API-2.md",
     "java学习/API-1.md",
