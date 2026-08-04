@@ -2,5 +2,6 @@
   "defaultViewMode": "preview",
   "livePreview": true,
   "showLineNumber": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "promptDelete": false
 }

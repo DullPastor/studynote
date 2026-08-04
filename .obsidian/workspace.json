@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d735e57bc1555a9a",
+        "id": "2b22c5007518ee87",
         "type": "tabs",
         "children": [
           {
-            "id": "462f8382573adccd",
+            "id": "5e092d5e26d0ae04",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -74,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9f5056fb4f1a274a",
@@ -188,8 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "462f8382573adccd",
+  "active": "aa45e8567be7f76b",
   "lastOpenFiles": [
+    "未命名",
+    "未命名 1.base",
+    "力扣知识点.base",
+    "未命名.base",
+    "java学习/API-2.md",
     "java学习/API-1.md",
     "java学习/assets/1576047659085.png",
     "java学习/集合01.md",
